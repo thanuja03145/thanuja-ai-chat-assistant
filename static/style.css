@@ -1,0 +1,4 @@
+body { font-family: 'Segoe UI', sans-serif; background: #764ba2; color: #333; }
+.chat-container { width: 450px; background: white; border-radius: 16px; }
+.user-message { background: #764ba2; color: white; }
+.ai-message { background: #e2e8f0; color: #333; }
