@@ -18,6 +18,9 @@ python -m venv venv
 
 ### 4. Activate Virtual Environment
 venv\Scripts\activate
+---
+## 📱 Home Page
+![Chat Interface](https://raw.githubusercontent.com/thanuja03145/thanuja-ai-chat-assistant/main/screenshot.png)
 
 ### 5. Install Dependencies
 pip install -r requirements.txt
